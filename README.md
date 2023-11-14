@@ -1,3 +1,2 @@
 # React-progress-bar
-Created with CodeSandbox
-A simple progress bar component
+A simple working progress bar component coded in react
